@@ -59,7 +59,7 @@ streamlit run main.py
 
 The app should open up in your web browser.
 
-How to Play
+## How to Play
 On the welcome screen, click the "Start Helping Friends!" button.
 
 Next, you'll see the character selection screen. Read about the characters and pick one to talk to.
