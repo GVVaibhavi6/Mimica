@@ -1,5 +1,5 @@
 # Mimica: A Friendly Chatbot Game
-Mimica is an app where you can have conversations with AI characters who have their own feelings. It is built using Python and Streamlit to make talking with AI feel more humanlike. You can talk to characters who are sad, angry, or anxious, and your goal is to help them feel better by being a good friend. There's a happiness meter that shows you how you're doing, which makes each chat feel like a small, fun game about empathy.
+Mimica; where you can have conversations with AI characters who have their own feelings. It is built using Python and Streamlit to make talking with AI feel more humanlike. You can talk to characters who are sad, angry, or anxious, etc. and your goal is to help them feel better by being a good friend. There's a happiness meter that shows you how you're doing, which makes each chat feel like a small, fun game about empathy.
 
 ## What It Can Do
 Five Different AI Characters: You can talk to five unique characters, each with their own personality and story.
